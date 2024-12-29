@@ -21,3 +21,6 @@ Created using Remix IDE, based on OpenZeppelin ERC20 template.
 
 # Contact
 
+In case of any questions or suggestions feel free to contact via email [contact@forests.digital](mailto:contact@forests.digital).
+
+
