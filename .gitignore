@@ -1,0 +1,4 @@
+.deps/npm/@openzeppelin/contracts/token/ERC20/artifacts/*
+.deps/remix-tests/artifacts/*
+contracts/artifacts/*
+tests/artifacts/*
